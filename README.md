@@ -77,6 +77,6 @@ All the models are published on my [Hugging Face profile](https://huggingface.co
 - **Hands-on**: Training agents to navigate and perform tasks in Doom scenarios, such as the Health Gathering level, where the agent must collect health packs to avoid dying.
 
 # 📌 Notes
-This repository is a personal endeavor to reinforce my understanding of DRL concepts.
+This repository is a personal endeavor to reinforce my understanding of Deep RL concepts.
 
 The implementations are based on the Hugging Face course materials and may include additional experiments or modifications.
