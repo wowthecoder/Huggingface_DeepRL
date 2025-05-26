@@ -1,0 +1,12 @@
+gym==0.22.0
+gym[box2d]==0.22
+numpy==1.21.6
+torch==1.12.1
+tensorboard==2.10.0
+huggingface-hub
+imageio-ffmpeg
+imageio 
+wasabi
+wandb==0.12.1
+pyglet==1.5
+pyvirtualdisplay
